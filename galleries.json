@@ -1,0 +1,258 @@
+{
+  "future": {
+    "project": "future-forcing",
+    "label": "Future Forcing",
+    "slides": [
+      [
+        10,
+        "未来感知缓存压缩框架"
+      ],
+      [
+        9,
+        "Pre-RoPE Query 的稳定性"
+      ],
+      [
+        12,
+        "面向未来需求的缓存打分"
+      ],
+      [
+        13,
+        "响应相似度与信息合并"
+      ],
+      [
+        16,
+        "短视频保真度对比"
+      ],
+      [
+        17,
+        "打分与合并消融实验"
+      ],
+      [
+        18,
+        "推理效率与显存占用"
+      ],
+      [
+        19,
+        "长视频生成效果"
+      ]
+    ],
+    "items": [
+      {
+        "src": "assets/slides/future-10.webp",
+        "title": "未来感知缓存压缩框架"
+      },
+      {
+        "src": "assets/slides/future-09.webp",
+        "title": "Pre-RoPE Query 的稳定性"
+      },
+      {
+        "src": "assets/slides/future-12.webp",
+        "title": "面向未来需求的缓存打分"
+      },
+      {
+        "src": "assets/slides/future-13.webp",
+        "title": "响应相似度与信息合并"
+      },
+      {
+        "src": "assets/slides/future-16.webp",
+        "title": "短视频保真度对比"
+      },
+      {
+        "src": "assets/slides/future-17.webp",
+        "title": "打分与合并消融实验"
+      },
+      {
+        "src": "assets/slides/future-18.webp",
+        "title": "推理效率与显存占用"
+      },
+      {
+        "src": "assets/slides/future-19.webp",
+        "title": "长视频生成效果"
+      }
+    ]
+  },
+  "medical": {
+    "project": "medical-image",
+    "label": "医学影像智能分析",
+    "slides": [
+      [
+        25,
+        "医学影像平台系统架构"
+      ],
+      [
+        31,
+        "实例分割与分类任务"
+      ],
+      [
+        27,
+        "分割与分类模型设计"
+      ],
+      [
+        29,
+        "模型性能评价"
+      ],
+      [
+        35,
+        "染色体实例分割"
+      ],
+      [
+        37,
+        "图像预处理流程"
+      ],
+      [
+        38,
+        "分割实验结果"
+      ],
+      [
+        40,
+        "区域引导的胸片报告生成"
+      ]
+    ],
+    "items": [
+      {
+        "src": "assets/slides/medical-25.webp",
+        "title": "医学影像平台系统架构"
+      },
+      {
+        "src": "assets/slides/medical-31.webp",
+        "title": "实例分割与分类任务"
+      },
+      {
+        "src": "assets/slides/medical-27.webp",
+        "title": "分割与分类模型设计"
+      },
+      {
+        "src": "assets/slides/medical-29.webp",
+        "title": "模型性能评价"
+      },
+      {
+        "src": "assets/slides/medical-35.webp",
+        "title": "染色体实例分割"
+      },
+      {
+        "src": "assets/slides/medical-37.webp",
+        "title": "图像预处理流程"
+      },
+      {
+        "src": "assets/slides/medical-38.webp",
+        "title": "分割实验结果"
+      },
+      {
+        "src": "assets/slides/medical-40.webp",
+        "title": "区域引导的胸片报告生成"
+      }
+    ]
+  },
+  "usv": {
+    "project": "usv",
+    "label": "ROS 智能无人艇",
+    "slides": [
+      [
+        47,
+        "PE 三维场景与交互开发"
+      ],
+      [
+        48,
+        "MWORKS 建模与仿真"
+      ],
+      [
+        49,
+        "PE、ROS 与 MWORKS 通信架构"
+      ],
+      [
+        50,
+        "联合仿真与算法验证"
+      ]
+    ],
+    "items": [
+      {
+        "src": "assets/slides/usv-47.webp",
+        "title": "PE 三维场景与交互开发"
+      },
+      {
+        "src": "assets/slides/usv-48.webp",
+        "title": "MWORKS 建模与仿真"
+      },
+      {
+        "src": "assets/slides/usv-49.webp",
+        "title": "PE、ROS 与 MWORKS 通信架构"
+      },
+      {
+        "src": "assets/slides/usv-50.webp",
+        "title": "联合仿真与算法验证"
+      }
+    ]
+  },
+  "compiler": {
+    "project": "risc",
+    "label": "RISC 编译器",
+    "slides": [
+      [
+        2,
+        "编译器系统架构"
+      ],
+      [
+        7,
+        "中端优化流水线"
+      ],
+      [
+        10,
+        "SSA 构建与 Mem2Reg"
+      ],
+      [
+        14,
+        "循环结构优化"
+      ],
+      [
+        15,
+        "循环强度削弱与闭式化简"
+      ],
+      [
+        20,
+        "图着色寄存器分配"
+      ],
+      [
+        22,
+        "SSA 降级与并行复制"
+      ],
+      [
+        27,
+        "编译器设计创新点"
+      ]
+    ],
+    "items": [
+      {
+        "src": "assets/slides/compiler-02.webp",
+        "title": "编译器系统架构"
+      },
+      {
+        "src": "assets/slides/compiler-07.webp",
+        "title": "中端优化流水线"
+      },
+      {
+        "src": "assets/slides/compiler-10.webp",
+        "title": "SSA 构建与 Mem2Reg"
+      },
+      {
+        "src": "assets/slides/compiler-14.webp",
+        "title": "循环结构优化"
+      },
+      {
+        "src": "assets/slides/compiler-15.webp",
+        "title": "循环强度削弱与闭式化简"
+      },
+      {
+        "src": "assets/slides/compiler-20.webp",
+        "title": "图着色寄存器分配"
+      },
+      {
+        "src": "assets/slides/compiler-22.webp",
+        "title": "SSA 降级与并行复制"
+      },
+      {
+        "src": "assets/slides/compiler-27.webp",
+        "title": "编译器设计创新点"
+      }
+    ]
+  }
+}
