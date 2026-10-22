@@ -2,7 +2,7 @@
 
 用于实习投递的静态作品集，展示四个项目的背景、技术方案、实验记录、原系统图片及可交互的算法原理。
 
-在线访问：[Project Lab](https://vviolass-project-lab.y2138525048.chatgpt.site)。
+在线访问：[Project Lab](https://vviolass.github.io/internship-project-showcase/)。公开访问，无需登录，不依赖本机运行。
 
 此公开仓库仅保存展示端；Future Forcing 与无人艇原始源码不上传，RISC 和医学影像继续使用原有私有仓库。
 
