@@ -196,24 +196,80 @@
         "中端优化流水线"
       ],
       [
+        8,
+        "基础规范化：CFG 与控制流"
+      ],
+      [
+        9,
+        "基础规范化：常量折叠与分支化简"
+      ],
+      [
         10,
         "SSA 构建与 Mem2Reg"
       ],
       [
+        11,
+        "标量优化：传播、编号与代数化简"
+      ],
+      [
+        12,
+        "数组优化：GEP 化简与访存消除"
+      ],
+      [
+        13,
+        "循环信息维护与分析"
+      ],
+      [
         14,
-        "循环结构优化"
+        "循环融合、展开与交换"
       ],
       [
         15,
         "循环强度削弱与闭式化简"
       ],
       [
+        16,
+        "无用循环删除与工作量减少"
+      ],
+      [
+        17,
+        "函数内联、特化与重优化"
+      ],
+      [
+        18,
+        "内存、全局清理与后端交接"
+      ],
+      [
+        19,
+        "RISC-V 后端构建"
+      ],
+      [
         20,
         "图着色寄存器分配"
       ],
       [
+        21,
+        "栈帧布局与溢出槽复用"
+      ],
+      [
         22,
         "SSA 降级与并行复制"
+      ],
+      [
+        23,
+        "窥孔优化：地址、访存与立即数"
+      ],
+      [
+        24,
+        "窥孔优化：简单循环展开"
+      ],
+      [
+        25,
+        "指令选择与立即数融合"
+      ],
+      [
+        26,
+        "递归记忆化"
       ],
       [
         27,
@@ -230,24 +286,80 @@
         "title": "中端优化流水线"
       },
       {
+        "src": "assets/slides/compiler-08.webp",
+        "title": "基础规范化：CFG 与控制流"
+      },
+      {
+        "src": "assets/slides/compiler-09.webp",
+        "title": "基础规范化：常量折叠与分支化简"
+      },
+      {
         "src": "assets/slides/compiler-10.webp",
         "title": "SSA 构建与 Mem2Reg"
       },
       {
+        "src": "assets/slides/compiler-11.webp",
+        "title": "标量优化：传播、编号与代数化简"
+      },
+      {
+        "src": "assets/slides/compiler-12.webp",
+        "title": "数组优化：GEP 化简与访存消除"
+      },
+      {
+        "src": "assets/slides/compiler-13.webp",
+        "title": "循环信息维护与分析"
+      },
+      {
         "src": "assets/slides/compiler-14.webp",
-        "title": "循环结构优化"
+        "title": "循环融合、展开与交换"
       },
       {
         "src": "assets/slides/compiler-15.webp",
         "title": "循环强度削弱与闭式化简"
       },
       {
+        "src": "assets/slides/compiler-16.webp",
+        "title": "无用循环删除与工作量减少"
+      },
+      {
+        "src": "assets/slides/compiler-17.webp",
+        "title": "函数内联、特化与重优化"
+      },
+      {
+        "src": "assets/slides/compiler-18.webp",
+        "title": "内存、全局清理与后端交接"
+      },
+      {
+        "src": "assets/slides/compiler-19.webp",
+        "title": "RISC-V 后端构建"
+      },
+      {
         "src": "assets/slides/compiler-20.webp",
         "title": "图着色寄存器分配"
       },
       {
+        "src": "assets/slides/compiler-21.webp",
+        "title": "栈帧布局与溢出槽复用"
+      },
+      {
         "src": "assets/slides/compiler-22.webp",
         "title": "SSA 降级与并行复制"
+      },
+      {
+        "src": "assets/slides/compiler-23.webp",
+        "title": "窥孔优化：地址、访存与立即数"
+      },
+      {
+        "src": "assets/slides/compiler-24.webp",
+        "title": "窥孔优化：简单循环展开"
+      },
+      {
+        "src": "assets/slides/compiler-25.webp",
+        "title": "指令选择与立即数融合"
+      },
+      {
+        "src": "assets/slides/compiler-26.webp",
+        "title": "递归记忆化"
       },
       {
         "src": "assets/slides/compiler-27.webp",
